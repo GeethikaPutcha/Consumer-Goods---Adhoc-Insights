@@ -1,5 +1,7 @@
 # Consumer Goods Ad-hoc Insights
 
+Link to [Presentation Video](https://www.linkedin.com/posts/geethika16_ecstatic-to-present-my-latest-project-activity-7146144910159527936-hbo-?utm_source=share&utm_medium=member_desktop)
+
 ## Project Overview
 In this project, I conducted an analysis for Atliq Hardware, a prominent hardware production company. The primary objective was to provide valuable insights to the company through a SQL challenge, addressing the need for quick decision-making in their expanding data analytics team.
 
